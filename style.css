@@ -14,7 +14,7 @@ body {
 .first_body {
     background-size: contain;
     font-family: "Roboto";
-    height: 1161px;
+    height: 1061px;
     width: 1100px;
     
 }
@@ -22,7 +22,7 @@ body {
     background: url(images/undraw_mobile_login_ikmv.png) no-repeat top right;
     font-family: "Roboto";
     width: 1100px;
-    height: 530px;
+    height: 525px;
 }
 .third_body {
     width: 1100px;
